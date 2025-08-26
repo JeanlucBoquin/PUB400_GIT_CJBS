@@ -1,7 +1,10 @@
 **FREE
 CTL-OPT DFTACTGRP(*NO) ACTGRP(*CALLER) OPTION(*SRCSTMT: *NODEBUGIO);
 
-// /* Declaración de variables */
+// Un comentario desde IFS vamos a subirlo a git luego
+// lo trasladamos a archivo fisico fuente
+
+// /* Declaracion de variables */
 dcl-s nombreCliente varchar(50);
 dcl-s idCliente     int(10);
 // DCL-DS CLIENTE qualified;
