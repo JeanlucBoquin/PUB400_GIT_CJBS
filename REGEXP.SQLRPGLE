@@ -3,6 +3,7 @@ CTL-OPT DFTACTGRP(*NO) ACTGRP(*CALLER) OPTION(*SRCSTMT: *NODEBUGIO);
 
 // Comentario desde IFS hacia git
 // Luego trasladar al archivo fisico fuente
+// Comentario desde el SUE pasamos a IFS y subimos al git
 
 // /* Declaraci�n de variables */
 dcl-s nombreCliente varchar(50);
